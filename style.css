@@ -1,0 +1,23 @@
+.jumbotron {
+	padding-top: 6rem;
+	background-color: #e2edff;
+}
+
+#projects {
+	background-color: #e2edff;
+}
+
+#projects img {
+	height: 18rem;
+}
+
+section {
+	padding-top: 6rem;
+}
+
+.card:hover {
+	transform: scale(1.1);
+}
+.card {
+	transition: transform 0.5s;
+}
